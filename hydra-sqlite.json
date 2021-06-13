@@ -1,0 +1,13 @@
+{
+    "version": "1.10.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ory/hydra/releases/download/v1.10.2/hydra_1.10.2-sqlite_windows_64bit.zip",
+            "bin": [
+                "hydra.exe"
+            ],
+            "hash": "08E7A16F20882779B0AB78CD1909D75C406B7E79063080DA12A6053D97FA72C0"
+        }
+    },
+    "homepage": "https://www.ory.sh"
+}
